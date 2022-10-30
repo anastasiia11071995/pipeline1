@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('My-JenkinsBuild-Steps') {
             steps {
-               echo "test1 webhook2"
+               echo "test2 webhook2"
                echo "Start"
                echo "Doing something.."
                echo "End"
